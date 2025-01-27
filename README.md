@@ -1,4 +1,4 @@
-# Hi there, I'm Luke 👋
+# Hi there 👋, I'm Luke - @dorLoki
 
 ## 🚀 About Me
 
