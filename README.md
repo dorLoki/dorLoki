@@ -36,5 +36,5 @@ todo - add repo links
 
 ## 📫 Let's Connect!
 
-🌐 **Portfolio:** [luke.heydel.net](#)  
+🌐 **Portfolio:** [luke.heydel.net](https://luke.heydel.net)  
 📧 **Email:** luke.heydel@gmail.com  
